@@ -1,6 +1,6 @@
 #include <iostream>
 
-#define MODE 8
+#define MODE 1
 
 #ifndef MODE
 #error MODE was not defined
